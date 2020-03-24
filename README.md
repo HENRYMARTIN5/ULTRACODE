@@ -9,6 +9,7 @@ import uc
 IdentityHash = uc.init()
 ```
 Next, add your code. Note that the code here is just an example, as you can use any python feature here. See what you can come up with!
+QUICK TIP: All ULTRACODE functions must have your identity hash as the last parameter.
 ```
 print("Three cheers for ULTRACODE!")
 uc.loop(3, "print('Hip!');print('Hip!');print('Horray!')", IdentityHash)
