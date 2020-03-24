@@ -1,0 +1,23 @@
+[[package]]
+category = "main"
+description = "replit"
+name = "replit"
+optional = false
+python-versions = "*"
+version = "1.0.5"
+
+[[package]]
+category = "main"
+description = "ANSII Color formatting for output in terminal."
+name = "termcolor"
+optional = false
+python-versions = "*"
+version = "1.1.0"
+
+[metadata]
+content-hash = "0f21409a04219ec55fb1b34ec47fc1a4e8536349bbd91591b8d1da282ef272b4"
+python-versions = "^3.7"
+
+[metadata.hashes]
+replit = ["0323725f7e0122a7ed2f123380974158c1a3c5f5c83972924864f633cc150ef7"]
+termcolor = ["1d6d69ce66211143803fbc56652b41d73b4a400a2891d7bf7a1cdf4c02de613b"]

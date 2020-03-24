@@ -1,0 +1,15 @@
+[build-system]
+build-backend = "poetry.masonry.api"
+requires = ["poetry>=0.12"]
+
+[tool]
+[tool.poetry]
+authors = ["Henry Martin"]
+description = "ULTRACODE - Next-gen Python for next-gen results."
+name = "ultracode-v2"
+version = "0.1.0"
+[tool.poetry.dependencies]
+python = "^3.7"
+termcolor = "^1.1"
+replit = "^1.0"
+[tool.poetry.dev-dependencies]
