@@ -12,7 +12,7 @@ Next, add your code. Note that the code here is just an example, as you can use 
 QUICK TIP: All ULTRACODE functions must have your identity hash as the last parameter.
 ```
 print("Three cheers for ULTRACODE!")
-uc.loop(3, "print('Hip! Hip! Horray!!!')", IdentityHash)
+uc.loop(3, "print('Hip! Hip! Hooray!!!')", IdentityHash)
 ```
 And, once you're ready, exit the ULTRACODE script.
 ```
