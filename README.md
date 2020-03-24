@@ -1,8 +1,8 @@
 [![Run on Repl.it](https://repl.it/badge/github/HENRYMARTIN5/ULTRACODE)](https://repl.it/github/HENRYMARTIN5/ULTRACODE)
 # ULTRACODE
 ##### Next-gen Python for next-gen results.
-ULTRACODE is an edited version of Python that uses a custom Python module to make built-in functions easier to use.
-To start, navigate to the "projects" folder and make a new file. Make sure it ends with the .uc file extension!
+ULTRACODE is an edited version of Python that uses a custom Python module to make built-in Python functions easier to use.
+To start, navigate to the main folder and make a new file. Make sure it ends with the .uc file extension!
 To use ULTRACODE, first, initialize the ULTRACODE module.
 ```
 import uc
