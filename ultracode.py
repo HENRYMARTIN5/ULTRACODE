@@ -6,7 +6,6 @@ langInputText = colored('Enter language to run in, or type 3 to exit. Options ar
 langInputTextSHonly = colored('Enter language to run, or type 3 to exit. Options are:\n 1. ULTRACODEshV2\n 2. Run Python Shell\n 3. Exit\n', 'blue')
 UCfileInputText = colored('Enter filename/path or leave blank to run the ULTRACODE shell: ', 'green')
 def runPyfromUC(UCfile):
-	shell.run("cd projects")
 	shell.pyExecute(UCfile)
 def runUC(pureUC):
 	UCfile = input(UCfileInputText)
