@@ -11,5 +11,4 @@ Next, add your code. Note that the code here is just an example, as you can use 
 ```
 print("Three cheers for ULTRACODE!")
 uc.loop(3, "print('Hip!');print('Hip!');print('Horray!')", IdentityHash)
-uc.exit(IdentityHash)
 ```
