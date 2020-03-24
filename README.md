@@ -14,7 +14,8 @@ QUICK TIP: All ULTRACODE functions must have your identity hash as the last para
 print("Three cheers for ULTRACODE!")
 uc.loop(3, "print('Hip! Hip! Horray!!!')", IdentityHash)
 ```
-And, once you're ready, exit ULTRACODE.
+And, once you're ready, exit the ULTRACODE script.
 ```
 uc.exit(IdentityHash)
 ```
+Finally, run the script, enter your filename, type 2, press enter, and your program will load. Voila!
