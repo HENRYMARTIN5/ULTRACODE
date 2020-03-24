@@ -14,3 +14,7 @@ QUICK TIP: All ULTRACODE functions must have your identity hash as the last para
 print("Three cheers for ULTRACODE!")
 uc.loop(3, "print('Hip!');print('Hip!');print('Horray!')", IdentityHash)
 ```
+And, once you're ready, exit ULTRACODE.
+```
+uc.exit(IdentityHash)
+```
