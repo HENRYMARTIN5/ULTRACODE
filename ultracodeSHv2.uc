@@ -1,8 +1,8 @@
 from os import system, name
 from time import sleep
 from random import random
-import uc
-HashIdentity = uc.init()
+import mc
+HashIdentity = mc.init()
 print("WELCOME TO ULTRACODEshV2 - LOADING...")
 def clear(): 
     # for windows 
@@ -26,4 +26,4 @@ while True:
    if command == "server.status":
      print("SERVER STATE: [PLEASE RESTART IF LARGER THAN 0.100000000]")
      print(str(random()))
-uc.exit(HashIdentity)
+mc.exit(HashIdentity)
