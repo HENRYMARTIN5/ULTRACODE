@@ -12,4 +12,7 @@ version = "0.1.0"
 python = "^3.7"
 termcolor = "^1.1"
 replit = "^1.0"
+emoji = "^0.5.4"
+newspaper3k = "^0.2.8"
+flask = "^1.1"
 [tool.poetry.dev-dependencies]
