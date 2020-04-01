@@ -6,9 +6,9 @@ ucHashIdentity = "h2shehsshdhehsyyhwhshshwyd382163j1y34hrfd73h17w3ue8d33wuwu373w
 def init():
 	cprint("Ultracode V3.0 Runtime", 'blue')
 	cprint("Initilizing...", 'green')
-	time.sleep(1.5)
+	time.sleep(0.5)
 	cprint("Loading Project...", 'green')
-	time.sleep(1.8)
+	time.sleep(0.7)
 	cprint("Compiling assets...", 'green')
 	replit.clear()
 	return ucHashIdentity
