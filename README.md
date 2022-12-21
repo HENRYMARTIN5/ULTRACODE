@@ -1,3 +1,6 @@
+# This project has been archived.
+It was fun making this for a little bit, but it was stupidly impractical and was more of just me learning how to make things in Python. 
+
 [![Run on Repl.it](https://repl.it/badge/github/HENRYMARTIN5/ULTRACODE)](https://repl.it/github/HENRYMARTIN5/ULTRACODE)
 # ULTRACODE - STABLE RELEASE
 ### Next-gen Python for next-gen results.
